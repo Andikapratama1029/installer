@@ -17,8 +17,6 @@ bash <(curl -s https://raw.githubusercontent.com/Andikapratama1029/installer/ref
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : skyzodev)
-
 ## System Support :
 
 | Operating System | Version | Supported          |
@@ -30,7 +28,3 @@ bash <(curl -s https://raw.githubusercontent.com/Andikapratama1029/installer/ref
 |                  | 12      | :white_check_mark: |
 
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
-
-## Credits 
-- Recode By [ Skyzoe ](https://github.com/SkyzoOffc)
-- Created by [ FOXSTORE ](https://github.com/Foxstoree)
